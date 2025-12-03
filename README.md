@@ -1,14 +1,14 @@
 # Hi there, I'm Ferri Krisdiantoro 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;3%2B+Years+Experience;Building+AI+Products+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=AI+%26+Automation+Engineer;LLM+%26+RAG+System+Developer;n8n+%26+Power+Platform+Enthusiast;Building+Real-World+AI+Products" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferrikrisdiantoro)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ferrikrisdiantoro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ferrikrisdiantoro.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ferrikrisdiantoro.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferryk935@gmail.com)
 
 </div>
@@ -17,197 +17,137 @@
 
 ## 🚀 About Me
 
-I'm a **AI** and **Machine Learning** Enthuasiast with over **3 years of experience** building production-ready AI systems and leading cross-functional teams. I specialize in transforming complex business problems into scalable AI solutions that drive measurable impact.
+I'm an **AI Automation Engineer & Machine Learning Practitioner** with **3+ years of experience** helping businesses and organizations build:
 
-### 🎯 What I Do
-- **AI Product Development**: End-to-end AI product lifecycle from research to production
-- **Machine Learning Engineering**: Scalable ML pipelines and MLOps infrastructure
-- **Deep Learning**: Computer vision, NLP, and multimodal AI systems
-- **Prompt Engineering**: Advanced LLM optimization and fine-tuning
-- **Team Leadership**: Mentoring engineers and driving technical strategy
+- AI-powered web apps  
+- Smart automation workflows  
+- Custom LLM/RAG systems  
+- Internal tools for operations & decision making  
+
+I love turning *chaotic, manual processes* into **clean, automated pipelines** using a combination of **custom AI models**, **n8n / PowerAutomate**, and **full-stack web development**.
 
 ---
 
 ## 💡 Core Expertise
 
+> UI bagian ini dibuat mirip seperti README lamamu — full badge dan terstruktur per kategori.
+
 <div align="center">
 
-### 🤖 **Machine Learning & AI**
+### 🤖 Machine Learning & AI
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📊 **Data Science & Analytics**
+### 📊 Data Science & Analytics
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### ☁️ **Cloud & Infrastructure**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### 🤝 LLM, RAG & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F61?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+
+### 🌐 Web & Apps
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### 🗄️ **Databases**
+### 🗄️ Databases & Storage
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Selected Real-World Projects
 
-### 📈 **Impact & Metrics**
-- **🎯 50+ ML models** deployed to production serving millions of users
-- **📊 $10M+ revenue impact** through AI-driven optimization and automation
-- **🔬 15+ research publications** in top-tier ML conferences and journals
-- **⭐ 25+ open-source projects** with 50K+ combined GitHub stars
-- **👥 Mentored 30+ engineers** and data scientists across multiple organizations
+> Diambil dari project yang benar-benar kamu kerjakan (Derma-DFU, Manggrow, dll).
 
-### 🏅 **Notable Projects**
-- **🚀 AI-Powered Recommendation Engine**: Increased user engagement by 40% and revenue by $2M annually
-- **🔍 Computer Vision Pipeline**: Reduced manual inspection time by 80% in manufacturing quality control
-- **💬 Conversational AI Platform**: Deployed enterprise chatbot handling 1M+ daily interactions
-- **📱 Real-time Fraud Detection**: Prevented $5M+ in fraudulent transactions with 99.5% accuracy
-- **🧠 Neural Architecture Search**: Developed AutoML system reducing model development time by 60%
+- 🩺 **DERMA-DFU.ID** – AI untuk klasifikasi & segmentasi luka kaki diabetes.  
+  TensorFlow → ONNX Runtime Web, Lovable frontend, Supabase backend.
 
----
+- 🌱 **Manggrow.id – AI Plant Assistant**  
+  Monitoring tanaman + AI Assistant berbasis RAG (NextJS, NodeJS, n8n, LlamaIndex, Pinecone, Gemini API).
 
-## 🔬 Research & Publications
+- 🎓 **Face Recognition Absence System**  
+  Sistem absensi mahasiswa berbasis wajah menggunakan YOLOv11 + InsightFace, React + Tailwind, Flask backend.
 
-<div align="center">
+- 🗺️ **Tourism Recommender System (Hybrid CF + CBF)**  
+  Rekomendasi wisata Sumatera Utara dengan TensorFlow RecommenderNet & Cosine Similarity (React, HapiJS).
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yourprofile)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/your-orcid)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/yourprofile)
+- 🍎 **Fruit & Vegetable Nutrition Classifier**  
+  Image classification dengan PyTorch, React frontend, Flask API, MySQL untuk mapping nutrisi.
 
-</div>
+- 🚗 **Object Speed Estimation**  
+  YOLOv11 + DeepSORT untuk estimasi kecepatan kendaraan dari video (PyTorch, CV pipeline).
 
-### 📚 **Recent Publications**
-- **"Scalable Deep Learning for Production Systems"** - *NeurIPS 2024* | [📖 Paper](link) | [💻 Code](link)
-- **"Efficient Prompt Engineering for Large Language Models"** - *ICML 2024* | [📖 Paper](link) | [💻 Code](link)
-- **"Automated Machine Learning Pipeline Optimization"** - *KDD 2023* | [📖 Paper](link) | [💻 Code](link)
-- **"Multimodal AI for Healthcare Applications"** - *Nature Machine Intelligence 2023* | [📖 Paper](link)
+- 📄 **Finance AI Agent for Enterprise**  
+  RAG system untuk dokumen finance internal menggunakan LangChain, LlamaIndex, Pinecone, Groq, NextJS UI.
 
-### 🎤 **Speaking & Conferences**
-- **Keynote Speaker** - AI Summit 2024: "The Future of MLOps"
-- **Workshop Leader** - NeurIPS 2024: "Advanced Prompt Engineering"
-- **Panel Expert** - Strata Data Conference 2024: "AI in Production"
-- **Featured Speaker** - PyData Global 2023: "Scaling ML Teams"
-
----
-
-## 🛠️ Featured Open Source Projects
-
-<div align="center">
-
-### 🌟 **Popular Repositories**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ml-pipeline-framework&theme=dark)](https://github.com/yourusername/ml-pipeline-framework)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=prompt-engineering-toolkit&theme=dark)](https://github.com/yourusername/prompt-engineering-toolkit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=computer-vision-utils&theme=dark)](https://github.com/yourusername/computer-vision-utils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=automl-framework&theme=dark)](https://github.com/yourusername/automl-framework)
-
-</div>
-
-### 📦 **Project Highlights**
-- **🔧 ML Pipeline Framework**: Production-ready MLOps toolkit with 5K+ stars
-- **🤖 Prompt Engineering Toolkit**: Advanced LLM optimization library with 3K+ stars
-- **👁️ Computer Vision Utils**: Comprehensive CV preprocessing suite with 2K+ stars
-- **⚡ AutoML Framework**: Automated machine learning pipeline with 1.5K+ stars
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+- 🤖 **Customer Service AI Chatbot (DERMA-DFU)**  
+  RAG chatbot terintegrasi ke website, dibungkus di dalam workflow n8n.
 
 ---
 
 ## 🎓 Education & Certifications
 
-### 🎓 **Academic Background**
-- **Ph.D. in Machine Learning** - Stanford University (2018)
-- **M.S. in Computer Science** - MIT (2015)
-- **B.S. in Mathematics & Computer Science** - UC Berkeley (2013)
-
-### 🏆 **Professional Certifications**
-- **AWS Certified Machine Learning - Specialty** (2024)
-- **Google Cloud Professional Machine Learning Engineer** (2024)
-- **Microsoft Azure AI Engineer Associate** (2023)
-- **Certified Kubernetes Administrator (CKA)** (2023)
+- 🎓 **Bachelor in Informatics / Computer Science**  
+- 🏅 **Machine Learning Engineer — Coding Camp 2025**  
+- 🏅 **Machine Learning Terapan — Dicoding Indonesia**  
+- 🏅 **Data Science — HarvardX**
 
 ---
 
-## 🎯 Services & Expertise
+## 🎯 Services (Open for Hire)
+
+<div align="center"><b>🚀 How I Can Help Your Business</b></div>
+
+| Service | Description | Tools |
+|--------|-------------|-------|
+| 🤖 Workflow Automation | Hubungkan WhatsApp, Email, Sheets, dan sistem internal menjadi alur kerja otomatis | n8n, Power Automate, Zapier, Webhooks |
+| 🧠 AI Chatbots & RAG | Bangun chatbot cerdas dari dokumen atau knowledge base internal | OpenAI, LangChain, LlamaIndex, Pinecone |
+| 📱 Custom Business Apps | Aplikasi internal untuk Inventory, Asset, HR, atau Operasional Lapangan | Power Apps, SharePoint, Supabase |
+| 🧪 Computer Vision & ML | Klasifikasi gambar, deteksi objek, forecasting, dsb. | TensorFlow, PyTorch, Scikit-learn |
+| 📊 Data & Reporting | Scraping, cleaning, dan visualisasi data otomatis | Python, Pandas, Excel, Streamlit |
+
+---
+
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-### 🚀 **What I Can Help You With**
-
-</div>
-
-| **Service** | **Description** | **Typical Duration** |
-|-------------|-----------------|---------------------|
-| 🔍 **AI Strategy Consulting** | End-to-end AI roadmap and implementation strategy | 2-4 weeks |
-| 🤖 **ML Model Development** | Custom machine learning solutions from prototype to production | 4-12 weeks |
-| 📊 **Data Science Projects** | Advanced analytics, insights, and predictive modeling | 3-8 weeks |
-| ⚡ **MLOps Implementation** | Production ML pipelines, monitoring, and automation | 6-10 weeks |
-| 🧠 **LLM Fine-tuning** | Custom language model optimization and deployment | 2-6 weeks |
-| 👥 **Team Training** | Workshops and mentoring for AI/ML teams | 1-4 weeks |
-
----
-
-## 💼 Client Success Stories
-
-> *"Working with [Your Name] transformed our AI capabilities. Their expertise in MLOps helped us reduce deployment time by 70% while improving model accuracy by 25%."*
-> 
-> **— CTO, Fortune 500 Tech Company**
-
-> *"The recommendation system delivered exceptional results - 40% increase in user engagement and $2M additional revenue in the first quarter."*
-> 
-> **— VP of Product, E-commerce Platform**
-
-> *"Their prompt engineering expertise helped us build a conversational AI that handles complex customer queries with 95% satisfaction rate."*
-> 
-> **— Head of Customer Success, SaaS Startup**
-
----
-
-## 📈 Current Focus Areas
-
-<div align="center">
-
-### 🔬 **Research Interests**
-```
-🧠 Large Language Models & Prompt Engineering
-🤖 Multimodal AI Systems
-⚡ Efficient ML for Edge Computing
-🔒 Privacy-Preserving Machine Learning
-🎯 AutoML & Neural Architecture Search
-```
-
-### 🚀 **Industry Applications**
-```
-🏥 Healthcare AI & Medical Imaging
-💰 Financial Services & Risk Management
-🛒 E-commerce & Recommendation Systems
-🚗 Autonomous Systems & Robotics
-📱 Mobile AI & Edge Computing
-```
+<img src="https://github-readme-stats.vercel.app/api?username=ferrikrisdiantoro&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrikrisdiantoro&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -217,36 +157,13 @@ I'm a **AI** and **Machine Learning** Enthuasiast with over **3 years of experie
 
 <div align="center">
 
-### 💡 **Ready to build something amazing together?**
-
-Whether you're looking to **implement AI solutions**, **scale your ML operations**, or **explore cutting-edge research**, I'm here to help turn your vision into reality.
-
-[![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-28a745?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/yourprofile)
-[![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+💡 **Have a project in mind?**  
+I'm available for **freelance & contract work** — let's automate your workflow and build something useful.
 
 </div>
 
-### 📧 **Contact Information**
-- **Email**: your.email@domain.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-
----
-
 <div align="center">
-  
-**⚡ "Transforming data into intelligence, one algorithm at a time."**
 
-*Thank you for visiting my profile! ⭐ Star some repositories if you find them useful.*
+⚡ *"Automating the boring stuff, so you can focus on what matters."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-animation-gif" alt="Coding Animation" width="400"/>
 </div>
