@@ -1,129 +1,132 @@
-# Hi there, I'm Ferri Krisdiantoro 👋
+kok jauh lebih jelek designnya? prasaan dulu bagus
+
+
+
+
+Hi there, I'm Ferri Krisdiantoro 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=2E9EF7&center=true&vCenter=true&width=480&lines=AI+Engineer+%7C+Automation+Expert;Machine+Learning+Developer;RAG+System+%26+AI+Agents+Builder;Building+Smart+%26+Scalable+AI+Solutions" />
-</div>
-
----
-
-## 🚀 About Me  
-I am an **AI Engineer & Automation Developer** with strong experience in building **AI-driven business systems**, including Machine Learning models, Computer Vision apps, LLM/RAG systems, and automation workflows using n8n & Power Platform.
-
-Over the last years, I have completed **20+ real-world AI projects** for businesses, research, and operational workflows — delivering practical solutions that *reduce manual work, increase efficiency, and modernize business operations*.
-
----
-
-## 🎯 What I Do Best
-
-### 🤖 Automation & System Integration  
-- Build **end-to-end workflows** (WhatsApp, Sheets, Email, CRM) using **n8n, Zapier, Power Automate**  
-- Create **autonomous AI agents** for real-time responses & task processing  
-
-### 🧠 Machine Learning & AI Modeling  
-- Image Classification, Object Detection, Segmentation  
-- Text Classification, NLP, Sentiment Models  
-- Time Series Forecasting & Sales Prediction  
-
-### 🏗️ Internal Business Apps  
-- Full-stack **Power Apps** solutions (Inventory, Asset, HR, Logistics)  
-- Custom dashboards & internal tools  
-
-### 🧩 LLM & RAG Systems  
-- Chat with Documents  
-- Enterprise AI Assistants  
-- Knowledge-base bots using LangChain / LlamaIndex  
-
----
-
-## 💡 Tech Stack & Arsenal (My Daily Tools)
-
-<div align="center">
-
-| 🤖 Automation | 🧠 Machine Learning | ☁️ Tools & Database |
-|--------------|----------------------|----------------------|
-| n8n, Zapier, Power Automate | Python, TensorFlow, PyTorch | Supabase, MySQL, Firebase |
-| Webhooks, API Integration | Scikit, ONNX, OpenCV | Google Cloud, Vercel |
-| WhatsApp API, Email Parsing | NLP, RAG, LLM | Streamlit, FastAPI, NodeJS |
-
-</div>
-
----
-
-## 🏆 Proven Results  
-### 📈 Freelance Impact
-- ⭐ Completed **24+ paid projects** on marketplaces  
-- ⏱ Reduced **100+ hours/month** of manual work through automation  
-- 📱 Digitized operations for SMEs using Power Apps  
-- 💰 Generated **15M+ IDR** revenue from freelance projects  
-
----
-
-## 🏅 Notable Projects
-
-### 🚀 WhatsApp AI Auto-Reply System  
-Integrated OpenAI Assistant + WhatsApp API via n8n to automate customer support 24/7.
-
-### 🩺 DERMA-DFU — Medical AI for Foot Ulcer  
-Image Classification + Segmentation using TensorFlow → ONNX Runtime Web with Supabase backend.
-
-### 🌿 Manggrow AI Plant Assistant  
-NextJS frontend + Node backend + RAG system (LlamaIndex, Pinecone, Gemini API) + automation via n8n.
-
-### 🧬 Face Recognition Student Attendance  
-YOLOv11 + InsightFace + React + Flask for realtime attendance verification.
-
-### 🗺 Tourism Recommendation System  
-Hybrid (CF + CBF) model built with TensorFlow RecommenderNet & Cosine Similarity.
-
-### 🧠 Enterprise Finance AI Agent  
-RAG System answering finance docs using LangChain + Pinecone + Groq.
-
-### 🧾 Automated Invoice Processing  
-OCR → Parsing → Auto-fill Google Sheets using custom AI agents.
-
-### 🔍 Sales Prediction Model  
-85% accuracy using LSTM Time Series Forecasting.
-
----
-
-## 🎓 Education & Certifications
-
-### 📚 Academic  
-Bachelor of Computer Science / Informatics
-
-### 🏅 Certifications  
-- IBM Machine Learning Professional Certificate  
-- Dicoding — Applied Machine Learning  
-- Coding Camp — Machine Learning Engineer  
-- n8n Workflow Automation (Lv.1 & Lv.2)  
-- Microsoft Applied Skills — Power Apps  
-
----
-
-## 🎯 Services (Open for Hire)
-
-<div align="center"><b>🚀 How I Can Help Your Business</b></div>
-
-| Service | Description | Tools |
-|--------|-------------|--------|
-| 🤖 Workflow Automation | Connect WhatsApp/Email/Sheets into fully automated systems | n8n, Zapier, API |
-| 📱 Custom Business Apps | Internal apps for HR, Inventory, Operations | Power Apps, SharePoint |
-| 🧠 AI Chatbots | Customer Service AI & internal knowledge bots | OpenAI API, LangChain |
-| 📊 Data Processing | Scrape, clean, and visualize data automatically | Python, Pandas |
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-💡 Have a project in mind?  
-I'm available for **Freelance & Contract Work** — let's automate your business.
-
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2E9EF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DAI%2B%2526%2BAutomation%2BEngineer%3Bn8n%2B%2526%2BPower%2BPlatform%2BExpert%3BBuilding%2BSmart%2BBusiness%2BSolutions%3B3%252B%2BYears%2BExperience" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-⚡ *"Automating the boring stuff, so you can focus on what matters."*
+</div>
+
+🚀 About Me
+
+I am an AI Automation Engineer and Machine Learning Practitioner with over 3 years of experience. Unlike traditional developers, I focus on Business Efficiency—combining the power of Custom AI Models with Low-Code Automation to solve real-world operational problems.
+
+I have successfully completed 24+ Projects across various marketplaces, helping businesses automate their workflows, digitize their manual forms, and implement intelligent chatbots.
+
+🎯 Core Focus
+
+Business Automation: Orchestrating complex workflows using n8n and Power Automate.
+
+Internal Tools: Building custom ERP/HR/Inventory apps using Microsoft Power Apps.
+
+Machine Learning: Developing predictive models and NLP systems using Python.
+
+AI Agents: Integrating OpenAI (ChatGPT) & LLMs into daily business operations.
+
+💡 Tech Stack & Arsenal
+
+<div align="center">
+
+🤖 Automation & Low-Code
+
+🐍 Machine Learning & Python
+
+☁️ Tools & Database
+
+</div>
+
+🏆 Proven Track Record
+
+📈 Freelance Impact
+
+🌟 Top Rated Freelancer on Local Marketplaces (Fastwork) with 24+ Jobs Completed.
+
+⏱️ Saved 100+ Hours/Month for clients through automated n8n workflows.
+
+📱 Digitized Operations for multiple SMEs using Power Apps (Replacing Paper & Excel).
+
+💰 $15M+ IDR Revenue Generated from freelance projects in the last quarter.
+
+🏅 Notable Projects
+
+🚀 WhatsApp AI Auto-Reply: Integrated OpenAI Assistant with WhatsApp API via n8n for 24/7 Customer Support.
+
+🏭 Asset Management System: Full-stack Power Apps solution with Barcode Scanning and Approval Flow for a logistics company.
+
+📊 Automated Invoice Processing: OCR extraction from Email to Google Sheets/Excel using AI Agents.
+
+🔍 Sales Prediction Model: Python-based ML model to forecast monthly sales with 85% accuracy.
+
+🎓 Education & Certifications
+
+🎓 Academic Background
+
+Bachelor of Computer Science / Informatics (Universitas [Nama Kampus Kamu], Indonesia)
+
+🏆 Professional Certifications
+
+IBM Machine Learning Professional Certificate (Coursera/edX)
+
+n8n Workflow Automation Course Level 1 & 2 (n8n Academy)
+
+Microsoft Applied Skills: Create and manage canvas apps with Power Apps
+
+🎯 Services (Open for Hire)
+
+<div align="center">
+
+🚀 How I Can Help Your Business
+
+</div>
+
+Service
+
+Description
+
+Tools Used
+
+🤖 Workflow Automation
+
+Connect your apps (WA, Sheets, Email) to run on autopilot.
+
+n8n, Zapier, Webhooks
+
+📱 Custom Business Apps
+
+Create internal mobile apps for Inventory, HR, or Field Ops.
+
+Power Apps, SharePoint
+
+🧠 AI Chatbots
+
+Smart assistants for Customer Service or Internal Knowledge Base.
+
+OpenAI API, LangChain
+
+📊 Data Processing
+
+Scrape data, clean it, and visualize insights automatically.
+
+Python, Pandas, Looker
+
+🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+💡 Have a project in mind?
+
+I am currently available for Freelance and Contract work. Let's discuss how we can automate your business logic.
+
+</div>
+
+<div align="center">
+
+⚡ "Automating the boring stuff, so you can focus on what matters."
 
 </div>
