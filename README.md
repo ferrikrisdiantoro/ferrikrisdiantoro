@@ -1,8 +1,3 @@
-kok jauh lebih jelek designnya? prasaan dulu bagus
-
-
-
-
 Hi there, I'm Ferri Krisdiantoro 👋
 
 <div align="center">
