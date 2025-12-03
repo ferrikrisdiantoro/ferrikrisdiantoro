@@ -1,127 +1,157 @@
-Hi there, I'm Ferri Krisdiantoro 👋
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2E9EF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DAI%2B%2526%2BAutomation%2BEngineer%3Bn8n%2B%2526%2BPower%2BPlatform%2BExpert%3BBuilding%2BSmart%2BBusiness%2BSolutions%3B3%252B%2BYears%2BExperience" alt="Typing SVG" />
-</div>
+# ⭐ Ferri Krisdiantoro — AI Engineer & Full-Stack ML Developer
 
 <div align="center">
 
-</div>
-
-🚀 About Me
-
-I am an AI Automation Engineer and Machine Learning Practitioner with over 3 years of experience. Unlike traditional developers, I focus on Business Efficiency—combining the power of Custom AI Models with Low-Code Automation to solve real-world operational problems.
-
-I have successfully completed 24+ Projects across various marketplaces, helping businesses automate their workflows, digitize their manual forms, and implement intelligent chatbots.
-
-🎯 Core Focus
-
-Business Automation: Orchestrating complex workflows using n8n and Power Automate.
-
-Internal Tools: Building custom ERP/HR/Inventory apps using Microsoft Power Apps.
-
-Machine Learning: Developing predictive models and NLP systems using Python.
-
-AI Agents: Integrating OpenAI (ChatGPT) & LLMs into daily business operations.
-
-💡 Tech Stack & Arsenal
-
-<div align="center">
-
-🤖 Automation & Low-Code
-
-🐍 Machine Learning & Python
-
-☁️ Tools & Database
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=2E9EF7&center=true&vCenter=true&width=480&lines=AI+Engineer+%7C+Machine+Learning+Specialist;LLM+%26+RAG+System+Developer;Computer+Vision+Expert;Building+End-to-End+AI+Products" />
 
 </div>
 
-🏆 Proven Track Record
+---
 
-📈 Freelance Impact
+## 🚀 About Me  
 
-🌟 Top Rated Freelancer on Local Marketplaces (Fastwork) with 24+ Jobs Completed.
+I am an **AI Engineer & Machine Learning Developer** specializing in **end-to-end AI solutions**, from model development (Computer Vision, NLP, LLM, Recommender Systems, Time Series) to **full-stack deployment** using NextJS, Streamlit, Flask, FastAPI, and automation platforms like n8n & PowerAutomate.
 
-⏱️ Saved 100+ Hours/Month for clients through automated n8n workflows.
+I have built **20+ real-world AI products** used by businesses, health institutions, and enterprise teams — ranging from Medical AI, Recommender Systems, AI Assistants, to Computer Vision for tracking & measurement.
 
-📱 Digitized Operations for multiple SMEs using Power Apps (Replacing Paper & Excel).
+My mission is simple:  
+**Build AI that actually works and delivers real business value.**
 
-💰 $15M+ IDR Revenue Generated from freelance projects in the last quarter.
+---
 
-🏅 Notable Projects
+## 🧠 Core Specializations
 
-🚀 WhatsApp AI Auto-Reply: Integrated OpenAI Assistant with WhatsApp API via n8n for 24/7 Customer Support.
+### **1. Computer Vision**
+- Classification, Segmentation, Object Detection, Tracking  
+- YOLOv11/12, TensorFlow, PyTorch, ONNX Runtime  
+- Real deployments for healthtech, agriculture, logistics, monitoring systems  
 
-🏭 Asset Management System: Full-stack Power Apps solution with Barcode Scanning and Approval Flow for a logistics company.
+### **2. Large Language Models & AI Agents**
+- Retrieval-Augmented Generation (RAG)  
+- Multi-agent workflows using n8n  
+- Enterprise AI Assistants (Finance, Customer Support, Document QA)
 
-📊 Automated Invoice Processing: OCR extraction from Email to Google Sheets/Excel using AI Agents.
+### **3. Predictive Analytics**
+- LSTM, Time Series Forecasting  
+- Demand Prediction & Business Forecasting  
 
-🔍 Sales Prediction Model: Python-based ML model to forecast monthly sales with 85% accuracy.
+### **4. Recommender Systems**
+- Hybrid Systems (CF + CBF)  
+- TensorFlow RecommenderNet + Cosine Similarity  
 
-🎓 Education & Certifications
+### **5. Full-Stack AI Development**
+- NextJS + TailwindCSS  
+- Streamlit Apps  
+- Flask & FastAPI Model Serving  
 
-🎓 Academic Background
+---
 
-Bachelor of Computer Science / Informatics (Universitas [Nama Kampus Kamu], Indonesia)
+## 🏆 Highlight Projects
 
-🏆 Professional Certifications
+### 🩺 **DERMA-DFU.ID — Medical AI for Diabetic Foot Ulcer**
+- Image Classification + Segmentation  
+- TensorFlow → ONNX Runtime Web  
+- Web: Lovable + Supabase  
 
-IBM Machine Learning Professional Certificate (Coursera/edX)
+### 🌱 **Manggrow.id — AI Plant Assistant + RAG System**
+- NextJS + TailwindCSS  
+- NodeJS + Express backend  
+- RAG system: LlamaIndex, Pinecone, Gemini API  
+- AI Assistant packaged in n8n  
 
-n8n Workflow Automation Course Level 1 & 2 (n8n Academy)
+### 🎓 **Face Recognition Absence System**
+- YOLOv11 + InsightFace  
+- ReactJS + TailwindCSS  
+- Flask backend  
 
-Microsoft Applied Skills: Create and manage canvas apps with Power Apps
+### 🗺️ **Tourism Recommender System (Hybrid CF + CBF)**
+- TensorFlow RecommenderNet  
+- Cosine Similarity  
+- ReactJS + HapiJS  
 
-🎯 Services (Open for Hire)
+### 🍎 **Fruit & Vegetable Nutrition Classification**
+- PyTorch model  
+- Flask backend + MySQL  
+- ReactJS UI  
 
-<div align="center">
+### 🚗 **Object Speed Estimation (Detection + Tracking)**
+- YOLOv11  
+- DeepSORT  
+- Pixel movement → speed estimation  
 
-🚀 How I Can Help Your Business
+### 📑 **Finance AI Agent for Enterprise**
+- RAG System (LangChain + LlamaIndex)  
+- Pinecone + Groq LLaMA API  
+- NextJS UI  
 
-</div>
+### 🤖 **Customer Service AI Chatbot (RAG + Automation)**
+- n8n automation  
+- Document-based answering  
 
-Service
+### 💅 **Virtual Try-On Nail Polish**
+- Image Segmentation (TensorFlow)  
+- Streamlit UI  
 
-Description
+### 📄 **Chat With Your Documents (RAG System)**
+- LangChain + Pinecone + Groq  
+- Streamlit + FastAPI  
 
-Tools Used
+### ♻️ **Waste Classification (CV)**
+- Streamlit  
+- TensorFlow + Keras  
 
-🤖 Workflow Automation
+### 📱 **Playstore Sentiment Analysis**
+- Text Classification (LSTM)  
+- TensorFlow  
 
-Connect your apps (WA, Sheets, Email) to run on autopilot.
+### 📊 **Product Demand Forecasting**
+- Time Series (LSTM)  
+- Colab + Excel Output  
 
-n8n, Zapier, Webhooks
+### ⚙️ **MLOps Workflow System**
+- MLFlow, DagsHub, Docker  
+- Grafana + Prometheus  
 
-📱 Custom Business Apps
+### 🗂️ **AI-Powered Asset Classification**
+- PowerApps UI  
+- PowerAutomate + SharePoint  
+- LLM automation via n8n  
 
-Create internal mobile apps for Inventory, HR, or Field Ops.
+---
 
-Power Apps, SharePoint
+## 💡 Tech Stack
 
-🧠 AI Chatbots
+### **Languages & ML Frameworks**
+`Python` · `JavaScript` · `TensorFlow` · `PyTorch` · `Keras` · `Scikit-Learn` · `OpenCV` · `ONNX`
 
-Smart assistants for Customer Service or Internal Knowledge Base.
+### **Full-Stack Development**
+`NextJS` · `React` · `TailwindCSS` · `Streamlit` · `NodeJS` · `Express` · `Flask` · `FastAPI`
 
-OpenAI API, LangChain
+### **LLM & RAG**
+`LangChain` · `LlamaIndex` · `Pinecone` · `Groq` · `Gemini API` · `OpenAI API`
 
-📊 Data Processing
+### **Automation**
+`n8n` · `PowerAutomate` · `Zapier` · `Google Workspace Automation`
 
-Scrape data, clean it, and visualize insights automatically.
+### **Cloud & Database**
+`Supabase` · `MySQL` · `PostgreSQL` · `Firebase` · `Streamlit Cloud` · `Vercel`
 
-Python, Pandas, Looker
+---
 
-🌐 Let's Connect & Collaborate
+## 🎓 Certifications
+- Machine Learning Engineer — Coding Camp 2025  
+- Machine Learning Terapan — Dicoding Indonesia  
+- Data Science — HarvardX  
 
-<div align="center">
+---
 
-💡 Have a project in mind?
+## 📬 Contact  
+- 📧 Email: **ferryk935@gmail.com**  
+- 🌍 Location: **Indramayu, Jawa Barat, Indonesia**  
+- 📱 Phone: **+62831-4855-5248**  
 
-I am currently available for Freelance and Contract work. Let's discuss how we can automate your business logic.
+---
 
-</div>
+## ⚡ Philosophy  
+> **I build practical AI systems — not just models, but real products that deliver results.**
 
-<div align="center">
-
-⚡ "Automating the boring stuff, so you can focus on what matters."
-
-</div>
